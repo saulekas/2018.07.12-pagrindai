@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7c07efa-c7b1-40d6-8681-46c803d2a08d" name="Default" comment="" />
+    <list default="true" id="c7c07efa-c7b1-40d6-8681-46c803d2a08d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FirstTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6 Savaiciu Kursai/Uzdavinys1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6 Savaiciu Kursai/WelkomClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uzdavinys1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uzdavinys1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WelkomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelkomClass.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Uzdavinys1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Uzdavinys1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="339">
+              <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -24,12 +31,21 @@
       <file leaf-file-name="WelkomClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WelkomClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="26" column="8" selection-start-line="25" selection-start-column="4" selection-end-line="36" />
+            <state relative-caret-position="305">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
               <folding>
                 <element signature="e#501#502#0" expanded="true" />
                 <element signature="e#536#537#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FirstTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -43,11 +59,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WelkomClass.java" />
         <option value="$PROJECT_DIR$/src/Uzdavinys1.java" />
+        <option value="$PROJECT_DIR$/src/WelkomClass.java" />
+        <option value="$PROJECT_DIR$/src/FirstTask.java" />
       </list>
     </option>
   </component>
@@ -66,6 +86,7 @@
     <option name="width" value="1260" />
     <option name="height" value="720" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,7 +133,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Uzdavinys1">
+  <component name="RunManager" selected="Application.FirstTask">
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstTask" />
+      <module name="6 Savaiciu Kursai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="Uzdavinys1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uzdavinys1" />
       <module name="6 Savaiciu Kursai" />
@@ -167,9 +193,11 @@
     <list>
       <item itemvalue="Application.WelkomClass" />
       <item itemvalue="Application.Uzdavinys1" />
+      <item itemvalue="Application.FirstTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.Uzdavinys1" />
         <item itemvalue="Application.WelkomClass" />
       </list>
@@ -186,31 +214,43 @@
       <option name="presentableId" value="Default" />
       <updated>1531412727970</updated>
       <workItem from="1531412861063" duration="6852000" />
-      <workItem from="1531495647876" duration="708000" />
+      <workItem from="1531495647876" duration="4433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7560000" />
+    <option name="totallyTimeSpent" value="11285000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32868218" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32868218" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24213837" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24186046" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32868218" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262945" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -220,10 +260,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3301887" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,10 +289,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/WelkomClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="26" column="8" selection-start-line="25" selection-start-column="4" selection-end-line="36" />
+        <state relative-caret-position="305">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
           <folding>
             <element signature="e#501#502#0" expanded="true" />
             <element signature="e#536#537#0" expanded="true" />
@@ -262,10 +307,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
+    <entry file="file://$PROJECT_DIR$/src/FirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
