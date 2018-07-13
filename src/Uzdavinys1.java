@@ -38,6 +38,7 @@ public class Uzdavinys1 {
             if (letter == temp) {
                 result++;
             }
+            /*daromas pataisymas ir testuojama kaip matosi
 
         }
         return result;
