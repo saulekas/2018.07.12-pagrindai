@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c07efa-c7b1-40d6-8681-46c803d2a08d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FithTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SixtTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/NumberUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/6 Savaiciu Kursai/Uzdavinys1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/6 Savaiciu Kursai/WelkomClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uzdavinys1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uzdavinys1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WelkomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelkomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +23,7 @@
       <file leaf-file-name="Uzdavinys1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="680">
               <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
@@ -31,8 +32,8 @@
       <file leaf-file-name="WelkomClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WelkomClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="26" column="23" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="408">
+              <caret line="26" column="23" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
               <folding>
                 <element signature="e#501#502#0" expanded="true" />
                 <element signature="e#536#537#0" expanded="true" />
@@ -41,11 +42,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FirstTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="47">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SecondTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-157">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirdTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirdTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FithTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FithTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SixtTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SixtTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Utils/NumberUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +144,12 @@
         <option value="$PROJECT_DIR$/src/Uzdavinys1.java" />
         <option value="$PROJECT_DIR$/src/WelkomClass.java" />
         <option value="$PROJECT_DIR$/src/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/Utils/NumberUtils.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/ThirdTask.java" />
+        <option value="$PROJECT_DIR$/src/FithTask.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/SixtTask.java" />
       </list>
     </option>
   </component>
@@ -92,9 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,10 +188,17 @@
               <item name="6 Savaiciu Kursai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="6 Savaiciu Kursai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="6 Savaiciu Kursai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,19 +221,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstTask">
+  <component name="RunManager" selected="Application.SixtTask">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTask" />
       <module name="6 Savaiciu Kursai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Uzdavinys1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Uzdavinys1" />
+    <configuration name="FithTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FithTask" />
       <module name="6 Savaiciu Kursai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="WelkomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WelkomClass" />
+    <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondTask" />
+      <module name="6 Savaiciu Kursai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SixtTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SixtTask" />
+      <module name="6 Savaiciu Kursai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdTask" />
       <module name="6 Savaiciu Kursai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -191,15 +289,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WelkomClass" />
-      <item itemvalue="Application.Uzdavinys1" />
       <item itemvalue="Application.FirstTask" />
+      <item itemvalue="Application.SecondTask" />
+      <item itemvalue="Application.ThirdTask" />
+      <item itemvalue="Application.FithTask" />
+      <item itemvalue="Application.SixtTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SixtTask" />
+        <item itemvalue="Application.FithTask" />
+        <item itemvalue="Application.ThirdTask" />
+        <item itemvalue="Application.SecondTask" />
         <item itemvalue="Application.FirstTask" />
-        <item itemvalue="Application.Uzdavinys1" />
-        <item itemvalue="Application.WelkomClass" />
       </list>
     </recent_temporary>
   </component>
@@ -214,12 +316,13 @@
       <option name="presentableId" value="Default" />
       <updated>1531412727970</updated>
       <workItem from="1531412861063" duration="6852000" />
-      <workItem from="1531495647876" duration="4433000" />
+      <workItem from="1531495647876" duration="9942000" />
+      <workItem from="1531754517271" duration="10325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11285000" />
+    <option name="totallyTimeSpent" value="27119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,12 +348,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24186046" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1891473" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262945" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14967638" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -260,8 +362,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +373,47 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WelkomClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FirstTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -291,15 +434,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Uzdavinys1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="680">
           <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WelkomClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="408">
+          <caret line="26" column="23" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
           <folding>
             <element signature="e#501#502#0" expanded="true" />
             <element signature="e#536#537#0" expanded="true" />
@@ -309,8 +452,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="47">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FithTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SixtTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
